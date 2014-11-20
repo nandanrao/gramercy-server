@@ -1,0 +1,27 @@
+{
+  "name": "stream",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-nodemon": "^1.0.4",
+    "supertest": "^0.15.0"
+  },
+  "dependencies": {
+    "express": "^4.10.1",
+    "better-console": "^0.2.3",
+    "instagram-node": "^0.5.1",
+    "body-parser": "^1.9.2",
+    "bluebird": "^2.3.10",
+    "baconjs": "^0.7.35",
+    "lodash": "^2.4.1",
+    "socket.io": "^1.2.0",
+    "http": "0.0.0"
+  }
+}
