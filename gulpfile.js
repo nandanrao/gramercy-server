@@ -4,7 +4,7 @@ var console = require('better-console');
 
 gulp.task('nodemon', function(){
   nodemon({
-    script: 'app.js'
+    script: 'app/app.js'
   })
   .on('start', function(){
     console.clear();
